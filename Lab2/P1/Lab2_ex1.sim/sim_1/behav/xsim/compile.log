@@ -1,8 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Work/Verilog/Lab2_ex1/Lab2_ex1.srcs/sources_1/new/and2_gate.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module and2_gate
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Work/Verilog/Lab2_ex1/Lab2_ex1.srcs/sources_1/new/and4_gate.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module and4_gate
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Work/Verilog/Lab2_ex1/Lab2_ex1.srcs/sim_1/new/and4_gate_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module and4_gate_tb
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Work/Verilog/Lab2_ex1/Lab2_ex1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
