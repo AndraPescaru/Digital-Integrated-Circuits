@@ -2,7 +2,8 @@
 
 
 module gate2(
-    input in0,    input in1,
+    input in0,    
+    input in1,
     input sel,
     output reg out
 );
